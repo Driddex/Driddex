@@ -1,4 +1,4 @@
 # Technical Arist | Tech Artist
 -   Modeling: Blender, Substance Painter, Marmoset Toolbag, Houndini
--   Programming: Python, TypeScript, C++, Shell
+-   Programming: Python, С++, Typescript, Shell
 -   Other: K8s, Docker, CI/CD, Nginx
